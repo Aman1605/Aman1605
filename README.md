@@ -6,11 +6,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanpratap1932002@gmail.com)](mailto:amanprataps1932002@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/AmanPratap1605)](https://twitter.com/AmanPratap1605)
 
-<img align="left" width="290" height="250" alt="Aman Pratap Singh" src="https://static.vecteezy.com/system/resources/previews/000/376/583/original/vector-little-boy-waving-hand-hello.jpg"/>
+<img align="left" width="290" height="250" alt="Aman Pratap Singh" src="https://github.com/Aman1605/Aman1605/blob/main/ab67706c0000bebbb886553c0bde46097e09c838.jfif">
 
-### I'm <a href="https://www.linkedin.com/in/harsh-raj-jha-984102178/" target="_blank">Harsh Raj Jha</a>!
+### I'm <a href="https://www.linkedin.com/in/aman-pratap-singh-a45106241//" target="_blank">Aman Pratap Singh</a>!
 
-Currently pursuing my Bachelor's degree in Computer Science and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning full-stack web development. I am always open to collaborating on projects and innovative/disruptive ideas.
+Currently pursuing my Bachelor's degree in Information Technology and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning full-stack web development. I am always open to collaborating on projects and innovative/disruptive ideas. Interested in Graphic designing .
 
 ## Languages and Tools
 
@@ -19,7 +19,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 ---
 ### Github Profile Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman1605&column=8&theme=white" />
 </div>
 
 ---
@@ -28,15 +28,15 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 <p align="center">
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Hrjha30&show_icons=true&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=Aman1605&show_icons=true&hide_border=true"
     />
     <img
         height="130em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrjha30&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman1605&show_icons=true&hide_border=true&layout=compact&langs_count=8"
    />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrjha30&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1605&hide_border=true" height="180em" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 
 <br/>
  <div>
- <a href="#"><img alt="Harsh Raj Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrjha30&custom_title=Harsh%20Jha's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+ <a href="#"><img alt="Aman Pratap Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman1605&custom_title=Aman%20Pratap%20Singh%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
   <div> 
 </div>
 <br/>
